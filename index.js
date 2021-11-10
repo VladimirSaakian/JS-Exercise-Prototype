@@ -113,10 +113,10 @@ function Baby(name, age, favoriteToy) {
 /* 
   TASK 4
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Window binding - if this is not bound to anything unless use strict 
+  2. Implicit binding - Object on the left side of the dot
+  3. Explicit binding - When .call() or .apply() is used
+  4. New binding - Applied when object is created using function constructors 
 */
 
 
